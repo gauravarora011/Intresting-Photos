@@ -1,0 +1,7 @@
+*.pyc
+*.iml
+objectives.PNG
+.idea/
+.pyc
+myapp/*.pyc
+user_images/
